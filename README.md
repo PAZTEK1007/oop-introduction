@@ -1,4 +1,4 @@
-# Titre du projet
+# Object Oriented Programming Introduction
 
 Ce projet est une introduction à la programmation orientée objet (POO).
 
