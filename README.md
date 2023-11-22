@@ -17,7 +17,3 @@ Ce dépôt contient des exercices et des exemples de code pour vous aider à com
 - Consultez les différents fichiers pour voir les exemples de code.
 - Exécutez les fichiers pour voir les résultats.
 
-
-## Contact
-
-Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter à l'adresse email@example.com.
